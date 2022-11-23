@@ -27,7 +27,7 @@
 
 ### 적용 기술
 
-> - Front-End : React.js, sass, slick, react-modal
+> - Front-End : React.js, sass, slick, react-modal, react-router, react-paginate
 > - Back-End :  node.js, express, jwt, Bcrypt, My SQL
 > - Common : RESTful API
 
