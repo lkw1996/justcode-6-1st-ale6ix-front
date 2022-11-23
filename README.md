@@ -29,7 +29,7 @@
 
 > - Front-End : React.js, sass, slick, react-modal
 > - Back-End :  node.js, express, jwt, Bcrypt, My SQL
-> - Common : RESTful API, git, github
+> - Common : RESTful API
 
 
 ### 구현 기능👇
